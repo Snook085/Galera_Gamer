@@ -1,0 +1,5 @@
+Branco = #E0E3D5
+Preto = #0D0D0D
+Vermelho = #AD0208
+Vermelho Claro = #A64856
+Vemelhor Vinho = #5D0F0B

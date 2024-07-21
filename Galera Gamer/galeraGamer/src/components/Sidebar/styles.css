@@ -1,0 +1,39 @@
+
+.container-sideBar{
+    display: flex;
+    position: fixed;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    background-color: #090a0e;
+    animation: showSidebar .4s;
+}
+
+.svg-side{
+    position: fixed;
+    color: white;
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.itens-sidebar{
+    margin-top: 4.5rem;
+    width: 90%;
+    
+}
+
+@keyframes showSidebar{
+    from{
+        opacity: 0;
+        width: 0;
+    }
+
+    to {
+        opacity: 1;
+        width: 300px;
+    }
+}

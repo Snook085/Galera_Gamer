@@ -1,0 +1,13 @@
+.gridContainer{
+    display: grid;
+    grid-template-columns: 3fr;
+    padding: 20px;
+    flex: 1 0 auto;
+    min-height: 100vh;
+}
+
+.title-principal{
+    text-align: center;
+    color: white;
+    padding: 20px;
+}

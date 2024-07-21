@@ -1,0 +1,41 @@
+
+.Container{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    background-image: url('https://i.pinimg.com/736x/a4/a0/7c/a4a07cf09457484d8b0f06e43a6a2c6e.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cardInformativo{
+    display: flex;
+    background-color: #151b31;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 4px 6px 10px #05070e;
+    border-radius: 10px;
+}
+
+.titulo{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 20px;
+}
+
+.descricao{
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.destaque{
+    color: red;
+}

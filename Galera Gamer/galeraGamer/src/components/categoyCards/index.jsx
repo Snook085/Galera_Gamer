@@ -19,7 +19,7 @@ const CategoryCard = () => {
         <>
             <div className="mainContent">
                 {news.map((item,index) =>
-                <Cards key={index} title={item.title} img={item.image} description={item.tags}/>
+                <Cards id={`/noticias/${item.id}`} key={index} title={item.title} img={item.image} description={item.tags}/>
                 )}
             </div>        
         </>

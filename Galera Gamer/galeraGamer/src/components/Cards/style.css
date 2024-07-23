@@ -7,12 +7,14 @@
 }
 
 .categoryCard{
+    background-color:  #090c11;
     width: 280px;
     height: 300px;
     border: 2px solid transparent;
     cursor: pointer;
     transition: 0.5s;
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .categoryCard:hover{

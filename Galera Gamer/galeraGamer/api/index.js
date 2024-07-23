@@ -22,14 +22,31 @@ app.get('/api/news', async (req, res) => {
   }
 });
 
-// Endpoint para adicionar uma nova notícia
-app.post('/api/news', async (req, res) => {
-  const { title, image, description } = req.body;
-  const newNews = { title, image, description, timestamp: new Date() };
-
+// Endpoint para obter uma notícia específica por ID
+app.get('/api/news/:id', async (req, res) => {
+  const { id } = req.params;
   try {
     const data = await fs.readFile(newsFilePath, 'utf8');
     const news = JSON.parse(data);
+    const newsItem = news.find(n => n.id === parseInt(id, 10));
+    if (newsItem) {
+      res.json(newsItem);
+    } else {
+      res.status(404).json({ error: 'News not found' });
+    }
+  } catch (err) {
+    res.status(500).json({ error: 'Error reading news data' });
+  }
+});
+
+// Endpoint para adicionar uma nova notícia
+app.post('/api/news', async (req, res) => {
+  const { title, image, description, tags } = req.body;
+  try {
+    const data = await fs.readFile(newsFilePath, 'utf8');
+    const news = JSON.parse(data);
+    const newId = news.length ? Math.max(...news.map(n => n.id)) + 1 : 1;
+    const newNews = { id: newId, title, image, description, tags, timestamp: new Date() };
     news.push(newNews);
     await fs.writeFile(newsFilePath, JSON.stringify(news, null, 2));
     res.status(201).json(newNews);

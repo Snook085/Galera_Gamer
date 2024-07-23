@@ -4,6 +4,7 @@ import Noticias from "./pages/Noticias/Noticias";
 import Home from "./home";
 import PainelAdmin from "./pages/PainelAdmin";
 import QuemSomos from "./pages/quemSomos";
+import NewsDetails from "./pages/NewsDetails";
 
 
 
@@ -23,6 +24,10 @@ const Router = createBrowserRouter([
     {
         path:'/quemsomos',
         element:<QuemSomos/>,
+    },
+    {
+        path:'/noticias/:id',
+        element:<NewsDetails/>
     }
 ])
 

@@ -1,80 +1,74 @@
 [
   {
-    "title": "Ubisoft cancela série de Driver, mas continua trabalhando na franquia",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/driver-327x204.jpg",
-    "description": "Os planos para uma série live action da franquia de jogos Driver da Ubisoft já existiu em algum momento. Segundo o jornalista Stephen Totilo, a produção foi encerrada, mas a franquia de games ainda está em produção pelo estúdio.\n\nSegundo Totilo, a empresa que era responsável pela produção do live action, Binge, foi fechada e esse seria o motivo do encerramento da produção. “Não estamos mais avançando com nossa parceria com a Binge para a série de Driver“, disse um representante da Ubisoft ao jornalista.",
-    "timestamp": "2024-07-14T21:25:59.339Z"
+    "id": 1,
+    "title": "Assassin's Creed Shadows: historiador japonês defende existência de Yasuke.",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/05/Copias-fisicas-de-Assassins-Creed-Shadows-vao-exigir-ativacao-online-912x569.jpg",
+    "description": "Desde a revelação de Yasuke, um dos protagonistas de Assassin’s Creed Shadows, existe um debate acerca de precisão histórica do personagem. Um historiador e professor japonês, em uma publicação no X/Twitter, defende a existência do personagem histórico e comenta sobre o assunto.\n\nA decisão em falar sobre o assunto vem exatamente da divisão entre os gamers em relação a existência real do personagem no próximo jogo da maior franquia da Ubisoft. Yu Hirayama, também autor de livros que retratam o período histórico no qual o game se passa, afirma que existe pouco material sobre Yasuke.",
+    "tags": "Noticias - Games",
+    "timestamp": "2024-07-22T19:35:01.788Z"
   },
   {
-    "title": "Cenário feminino de Rainbow Six Siege terá HUB exclusivo",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Rainbow-Six-Siege-Hub-exclusivo-327x204.jpg",
-    "description": "A Ubisoft Brasil anunciou na última quarta-feira (10) um novo HUB exclusivo para o cenário feminino de Rainbow Six: Siege. \n\nA Ubisoft Brasil anunciou na última quarta-feira (10) um novo HUB exclusivo para o cenário feminino de Rainbow Six: Siege. ",
-    "timestamp": "2024-07-14T21:32:10.418Z"
+    "id": 2,
+    "title": "The Warriors quase teve uma versão para Game Boy Advance.",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/The-Warriors-versao-para-Game-Boy-Advance-CAPA-912x569.jpg",
+    "description": "Um ex-desenvolvedor da Rockstar afirmou que o jogo The Warriors quase recebeu uma versão para o Game Boy Advance – portátil da Nintendo. O título chegou a ser lançado no PSP, mas o profissional apontou que originalmente os planos era lançar um port do jogo para o popular portátil usando a mesma engine de Max Payne na plataforma.\n\nÉ importante mencionar que não houve registros prévios ou qualquer menção de um projeto relacionado à franquia para o GBA – o que torna esta a primeira vez que o título é mencionado para a antiga plataforma móvel. Ao Time Expansion, o desenvolvedor (que não quis se identificar) falou mais sobre o que chegaram a fazer:\n\nNós teríamos um modo cooperativo de até quatro jogadores usando o Cabo Link e mais coisas. Nós finalizamos o jogo. E era realmente divertido de jogar.\n\nEle também revela que The Warriors mudou de direção por causa da popularidade do PSP (portátil da Sony Interactive Entertainment) e uma falta de retorno financeiro dos projetos que eram produzidos para as plataformas da Nintendo.\n\nMas ele nunca foi lançado, porque foi quando o PSP começou a ganhar popularidade e nós realmente não estávamos vendo um bom retorno da Nintendo. A Nintendo, naquela época, não gostava de promover jogos classificados para adultos. Nós estávamos confortáveis no território da Sony, então partimos para levar The Warriors como um port direto ao PSP",
+    "tags": "Noticias",
+    "timestamp": "2024-07-22T19:49:11.666Z"
   },
   {
-    "title": "The Division 2 vai reavaliar personagens sazonais após reclamações de fãs",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/The-Division-2-vai-reavaliar-personagens-sazonais-apos-reclamacoes-de-fas-327x204.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:37:01.104Z"
+    "id": 3,
+    "title": "Eiyuden Chronicle: Hundred Heroes recebe atualização para melhorar desempenho.",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2023/12/Eiyuden-Chronicle-Hundred-Heroes-912x569.jpg",
+    "description": "O RPG Eiyuden Chronicle: Hundred Heroes recebeu uma grande atualização em todas as plataformas, chegando dois meses depois de seu lançamento para corrigir alguns problemas vistos dentro da experiência – principalmente relacionados ao seu desempenho.\n\n\nEle é chamado de “Day60Patch” e tem como seu principal objetivo trazer mais estabilidade e acelerar o tempo de carregamento que estava sendo visto pelos jogadores.",
+    "tags": "Noticias - Nitendo - Games - Playstation - Xbox",
+    "timestamp": "2024-07-22T20:03:10.938Z"
   },
   {
-    "title": "Tradutores contratados pela Nintendo reclamam da falta de créditos em games",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Tradutores-contratados-pela-Nintendo-reclamam-da-falta-de-creditos-em-games-327x204.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:39:12.056Z"
+    "id": 4,
+    "title": "Mortal Kombat: Onslaught encerrará em outubro",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2022/10/Mortal-Kombat-Onslaught-Key-Art.webp",
+    "description": "A Warner Bros. Games anunciou que Mortal Kombat: Onslaught, experiência mobile da franquia, terá seus servidores encerrados no dia 21 de outubro de 2024. A partir de hoje, 22 de julho, o público já não conseguirá mais fazer o download dele nas lojas digitais e dia 23 de agosto será encerrada a venda da moeda digital.\n\nSeu encerramento ocorrerá um pouco depois de seu aniversário de 1 ano, que seria celebrado no dia 17 de outubro deste ano. Na mensagem fornecida pela produtora, não foi revelada a razão do fechamento dos servidores do título – mas eles agradecem à “komunidade” por todo o apoio e afirmam que foi uma honra desenvolvê-lo.\n\nAssim como grande parte dos jogos mobile, Mortal Kombat: Onslaught era gratuito para baixar e se apoiava em microtransações. Apesar da franquia principal ser do gênero “Luta”, aqui víamos um “RPG de estratégia” – que permitia ao jogador criar grupos de lutadores para vencer os desafios e oponentes que apareciam em sua frente.",
+    "tags": "Noticias - Playstation",
+    "timestamp": "2024-07-22T20:41:49.564Z"
   },
   {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
+    "id": 5,
+    "title": "Filmagens da série de Tomb Raider só devem começar em 2025.",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Filmagens-da-serie-de-Tomb-Raider-so-devem-comecar-em-2025-01.webp",
+    "description": "Embora a Amazon Prime Video tenha confirmado que vai produzir uma série de Tomb Raider com Phoebe Waller-Bridge como roteirista, até o momento ela não revelou maiores detalhes sobre o projeto. No entanto, a companhia afirma prever que as gravações vão ser iniciadas no começo de 2025..\n\n\nEm uma entrevista ao The Wrap, o chefe de televisão da Amazon MGM Studios, Vernon Sanders, compartilhou alguns detalhes sobre a adaptação. Segundo ele, a criação dos roteiros e a pré-produção estão progredindo bem, e atualmente o streaming está se dedicando à fase de preparação da série.\n\n“Acredito que vamos passar o resto deste ano preparando as coisas, para que possamos iniciar a produção no começo do próximo ano”, explicou. Ele também afirmou que a empresa ainda não começou a fazer o processo de escalação de elenco para Tomb Raider, tampouco decidiu quem será a nova Lara Croft.\n\nTomb Raider terá procura global por protagonista\nDurante a entrevista, Sanders também afirmou que a Amazon MGM Studidos pretende fazer uma “busca global” para encontrar sua nova protagonista. Dada a importância que escolher a pessoa certa vai ter, o executivo garantiu que esse é um processo que deve ser iniciado “mais cedo do que tarde”.\nAo recrutar Phoebe Waller-Bridge, a plataforma de streaming decidiu dar destaque a uma versão mais jovem da heroína em sua adaptação de Tomb Raider. A intenção é se aproximar dos reboots iniciados em 2013, ao mesmo tempo em que a caracterização da personagem e suas aventuras não vão seguir necessariamente o que foi apresentado pelos games da Crystal Dynamics.\n\nEnquanto a série não chega, uma animação da franquia está programada para chegar ao catálogo do Prime Video no dia 10 de outubro deste ano, com Haley Atwell dando voz a Lara. Nos cinemas, a personagem já foi interpretada em dois filmes por Angelina Jolie e, em 2018, ela ganhou uma nova interpretação feita por Alicia Vikander.",
+    "tags": "Noticias - Games",
+    "timestamp": "2024-07-22T20:48:49.259Z"
   },
   {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
+    "id": 6,
+    "title": "Beta aberto de Concord no PC termina com baixo número de jogadores.",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Beta-concord-1-912x569.jpg",
+    "description": "Parece que a Firewalk Studios e a Sony estão com um grande problema nas mãos. Após o fim do beta aberto de Concord no PlayStation 5 e PC, via Steam, que foi do dia 18 de julho até o dia 21, o game fracassou em atrair um bom número de jogadores no PC. De acordo com dados do SteamCharts, o pico máximo de players no beta aberto foi apenas de 2.388 jogadores.\n\nO beta aberto de Concord desde o primeiro dia recebeu pouca atenção dos jogadores. Porém, o pico máximo de apenas 2.388 jogadores testando gratuitamente no Steam são números fracos. Podemos dizer, com certa franqueza, que o beta no PC foi um enorme fracasso. Infelizmente, não temos os números de jogadores no PlayStation 5, mas é difícil imaginar um situação muito diferente.\n\n\nO jogo recebeu críticas desde o lançamento do primeiro trailer. Muita gente questionou se game realmente daria certo e, pelo visto, dificilmente vai alcançar o sucesso do lançamento de Helldivers 2. Aqui no Adrena também testamos uma prévia do game e você pode conferir nossa análise completa aqui.\n\nComo é possível ver no print de tela do SteamCharts, o beta aberto de Concord falhou em chamar a atenção do público. Nas últimas 24 horas, durante o último dia do beta, o game atraiu um pouco mais de 1000 jogadores, isso em pleno domingo.\n\nApós beta aberto de Concord, qual será o destino do game?\nO beta aberto de Concord no PC ter fracassado não dá 100% de certeza de que o game irá flopar durante o lançamento no dia 23 de agosto. Chegando ao PC e PlayStation 5, talvez a Sony e Firewalk Studios ainda consigam transformar o game em um sucesso.\n\nDe qualquer forma, os resultados do beta são um indício claro do baixo interesse dos jogadores. Antes disso, game também recebeu beta fechado no PlayStation 5. Na ocasião, Sony e estúdio não comentaram sobre o desempenho do título.\n\n\nO que estava disponível no beta?\nO beta aberto de Concord no PC ofereceu suporte a 4K e proporção ultrawide (21:9), além de frames liberados e suporte para teclado/mouse ou DualSense. Os jogadores também podem aproveitar as tecnologias AMD FSR 3 e NVIDIA DLSS 3.7. Do mesmo modo, o beta incluiu 16 personagens e diversos mapas.",
+    "tags": "Noticias - Games - PC - Playstation",
+    "timestamp": "2024-07-22T20:52:08.763Z"
   },
   {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
+    "id": 7,
+    "title": "Star Wars Outlaws tem a maior campanha de marketing já feita pela Ubisoft",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/04/Star-wars-outlaws-4.webp",
+    "description": "A Ubisoft tem divulgado Star Wars Outlaws como um grande jogo em uma campanha de marketing inédita para o estúdio. Segundo o CEO do estúdio, Yves Guillemot, o título está entre os mais desejados, e por conta desses fatores, espera um lançamento forte.\n\nDurante o mais recente relatório fiscal da Ubisoft, entre os diferentes assuntos abordados, está o próximo grande lançamento do estúdio francês. Star Wars Outlaws chega em pouco mais de um mês e existe uma grande expectativa por parte de seus criadores.\n\nO que estamos levando em conta é um forte lançamento para Star Wars Outlaw. É o fato de que ele está entre os jogos mais esperados do setor este ano e reflete um sentimento positivo muito forte da comunidade, e também o fato de que estamos chegando com a maior campanha de marketing já feita até agora para um jogo da Ubisoft.\n\nEssa afirmação de Yves Guillemot vem depois de questionamentos de investidores em relação ao que o estúdio tem feito para que o lançamento seja bem-sucedido, principalmente porque, do ponto de vista desses investidores, a empresa não tinha expectativa de uma grande estreia. Um deles, inclusive, calculou cerca de 5 milhões de cópias vendidas baseado no que a Ubisoft havia dito até então.",
+    "tags": "Noticias - Games",
+    "timestamp": "2024-07-22T20:55:02.338Z"
   },
   {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
+    "id": 8,
+    "title": "Capcom divulga trailer de Terry Bogard em Street Fighter 6",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Terry-Bogard-trailer-912x569.jpg",
+    "description": "Durante a EVO 2024, que foi até o dia 21 de julho, a Capcom aproveitou a competição de luta e apresentou o primeiro trailer de Terry Bogard em Street Fighter 6. O lutador de Fatal Fury chega com seu visual clássico – incluindo o boné de Fatal Fury. Bogard estreará no game de luta durante a primavera do hemisfério sul, que acontece entre os dias 22 de setembro até 21 de dezembro.\n\nTerry Bogard será o primeiro lutador de uma franquia externa a marcar presença em um jogo principal de Street Fighter. Apesar da Capcom ter jogos colaborativos e de já termos visto Akuma em Tekken, essa será a primeira vez que lutadores de SNK e Fatal Fury farão parte do elenco principal de Street Fighter.\n\nA Capcom comentou recentemente o desejo de trazer Marvel vs Capcom de volta. Do mesmo modo, o diretor de Street Fighter 6, Takayuki Nakayama, comentou sobre o desejo de revigorar jogos de luta ao incluir lutadores como Terry Bogard, Mai Shiranyu e Elena em SF6.\n\nTrailer de Terry Bogard revela que lutador estreia em Street Fighter 6 ainda em 2024\nO clássico vilão M. Bison marcou a estreia dos lutadores do Ano 2 de Street Fighter 6. Terry, Mai Shiranui e Elena são os demais lutadores do passe do Ano 2 do game. O trailer de Terry Bogard revela que o lutador vai estrear no outono do hemisfério norte (primavera no Brasil).\n\nInfelizmente, o pequeno teaser do lutador não mostra detalhes do gameplay. Porém, é possível ver como ficou seu visual no estilo do game. Durante os próximos meses, a Capcom deve lançar vídeos com o gameplay do lutador, além de um guia completo dos combos, como já fez com os restantes dos lutadores do passe de batalha.\n\nQuem adquiriu o passe de personagens Ano 2 ou o Ano 2 Ultimate Pass terá acesso sem custo adicional ao lutador. Do mesmo modo, Terry Bogard poderá ser adquirido individualmente na loja de Street Fighter 6 com a moeda in-game do jogo. Apesar de não aparecer no trailer, será interessante ver como Terry Bogard vai se encaixar no restante do cânon de Street Fighter 6 e como será sua interação com os demais personagens.",
+    "tags": "Noticias - Games - Lançamentos",
+    "timestamp": "2024-07-22T20:58:20.609Z"
   },
   {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
-  },
-  {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
-  },
-  {
-    "title": "Lidia ganha data para se juntar ao elenco de Tekken 8",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Lidia-ganha-data-para-se-juntar-ao-elenco-de-Tekken-8-912x569.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:42:00.472Z"
-  },
-  {
-    "title": "Jogos para Xbox em oferta por menos de R$ 60 nesta semana",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/04/resident-evil-2-1-327x204.jpg",
-    "description": "sem descrição.",
-    "timestamp": "2024-07-14T21:44:45.079Z"
-  },
-  {
-    "title": "Apex Legends: The Board Game recebe redução no preço e nova pré-venda",
-    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Apex-Legends-The-Board-Game-reducao-preco-327x204.jpg",
-    "description": "sem descrição",
-    "timestamp": "2024-07-14T21:47:56.813Z"
+    "id": 9,
+    "title": "Arcane: veja a nova prévia da segunda temporada",
+    "image": "https://www.adrenaline.com.br/wp-content/uploads/2024/07/Arcane-veja-a-nova-previa-da-segunda-temporada-2-912x569.jpg",
+    "description": "A Netflix divulgou uma nova prévia da segunda temporada de Arcane. Os novos episódios da série animada baseada no jogo League of Legends chegam no catálogo da plataforma de streaming em novembro deste ano.\n\nNo clipe oficial, intitulado “Missão Secreta”, os personagens Heimerdinger e Ekko invadem sorrateiramente um laboratório. Veja abaixo.\n\nA temporada 2 da animação estreará no catálogo da Netflix em 2 de novembro de 2024. Vale lembrar que a primeira temporada completa de Arcane está disponível no serviço de streaming.\n\nProduzido pelo estúdio Fortiche Productions em parceria com a Riot Games, o título lançado em 2021 acompanha alguns dos personagens do LoL (League of Legends), incluindo as irmãs órfãs Vi e Jinx, que se separam e seguem caminhos diferentes. A série também explora as histórias por trás dos campeões Viktor, Ekko, Jayce, Caitlyn e Heimerdinger.\n\nA animação criada por Christian Linke e Alex Yee ganhou quatro prêmios no Emmy 2022, nas categorias Melhor Programa de Animação, Melhor Direção de Arte, Melhor Design de Cenários e Melhor Roteiro de Cores. Além disso, a produção também foi premiada no Annie Awards 2022, incluindo a categoria de Melhor Produção Televisiva.\n\n\"Em meio ao conflito entre as cidades-gêmeas de Piltover e Zaun, duas irmãs lutam em lados opostos de uma guerra entre tecnologias mágicas e convicções incompatíveis.\"\n\nPor fim, o elenco de voz original de Arcane conta com Ella Purnell (de O Lar das Crianças Peculiares) como Jinx, Hailee Steinfeld (de Gavião Arqueiro) no papel de Vi, Katie Leung (de Annika) como Caitlyn e Kevin Alejandro (de Lúcifer) interpretando Jayce.\n\nE você, pretende assistir a segunda temporada de Arcane?",
+    "tags": "Noticias - Pc",
+    "timestamp": "2024-07-22T21:12:33.104Z"
   }
 ]

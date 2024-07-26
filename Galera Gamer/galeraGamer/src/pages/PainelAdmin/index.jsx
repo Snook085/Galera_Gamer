@@ -44,36 +44,46 @@ const PainelAdmin = () => {
     return (
       <>
       <Cabecalho/>
-        <div className="containerForm">
-            <h2>Painel Administrativo</h2>
+        <div className='containerForm'>
+            <div className='container'>
+            
+            
+            
+            
+            <form  className="formContainer" onSubmit={handleSubmit}>
             {successMessage && <p className="success-message">{successMessage}</p>}
             {errorMessage && <p className="error-message">{errorMessage}</p>}
-            <form  className="formContainer" onSubmit={handleSubmit}>
+                <h2 className='titlep'>Painel Administrativo</h2><label>Título:</label>
                 <div>
-                    <label>Título:</label>
+                    
                     <input type="text" value={title} onChange={(e) => setTitle(e.target.value)} required />
                 </div>
+                <label>Endereço da Imagem:</label>
                 <div>
-                    <label>Endereço da Imagem:</label>
+                    
                     <input type="text" value={image} onChange={(e) => setImage(e.target.value)} required />
                 </div>
+                <label>Descrição:</label>
                 <div>
-                    <label>Descrição:</label>
+                    
                     <textarea value={description} onChange={(e) => setDescription(e.target.value)} required></textarea>
                 </div>
+                <label>Tags:</label>
                 <div>
-                    <label>Tags:</label>
+                    
                     <input type="text" value={tags} onChange={(e) => setTags(e.target.value)} required />
                 </div>
+                <label>Categoria:</label>
                 <div>
-                    <label>Categoria:</label>
+                    
                     <select value={category} onChange={(e) => setCategory(e.target.value)} required>
                         <option value="news">Notícias</option>
                         <option value="lancamentos">Lançamentos</option>
                     </select>
                 </div>
-                <button type="submit">Adicionar</button>
+                <button type="submit">Publicar</button>
             </form>
+            </div>
         </div>
         <Footer/>
         </>

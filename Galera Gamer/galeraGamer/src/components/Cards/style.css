@@ -7,7 +7,7 @@
 }
 
 .categoryCard{
-    background-color:  #090c11;
+    background-color:  #050259;
     width: 280px;
     height: 300px;
     border: 2px solid transparent;
@@ -18,7 +18,7 @@
 }
 
 .categoryCard:hover{
-    border-color: #AD0208;
+    border-color: #F20519;
 }
 
 .mainCategoryCardTile{
@@ -29,5 +29,5 @@
 
 .mainCategoryCardDescription{
     padding: 6px;
-    color: #A64856;
+    color: #ffffff;
 }

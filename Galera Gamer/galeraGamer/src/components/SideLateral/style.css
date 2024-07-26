@@ -12,7 +12,7 @@
 
 .sideBarContent{
     background-color: #050259;
-    box-shadow: 5px 5px 15px #0f121ad3;
+    box-shadow: 5px 10px 20px rgb(0, 0, 0);
     border-radius: 10px;
     padding: 16px;
     display: flex;

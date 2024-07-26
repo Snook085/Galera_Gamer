@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import { FaHome, FaTimes, FaFire } from "react-icons/fa";
+import { FaHome, FaTimes, FaFire ,FaRocket} from "react-icons/fa";
 import './../Sidebar/styles.css';
 import SidebarItem from "../SidebarItem";
 
@@ -30,6 +30,7 @@ const Sidebar = ({ active }) => {
             <div className="itens-sidebar">
                 <SidebarItem Icon={FaHome} texte={"inicio"} to={'/'} />
                 <SidebarItem Icon={FaFire} texte={"Notícias"} to={'/noticias'} />
+                <SidebarItem Icon={FaRocket} texte={"Lancamentos"} to={'/lancamentos'} />
             </div>
         </div>
     );

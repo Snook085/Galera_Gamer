@@ -1,4 +1,5 @@
 import Cabecalho from "../../components/Cabecalho/cabecalho";
+import Footer from "../../components/footer";
 import '../quemSomos/style.css'
 
 const QuemSomos = () => {
@@ -22,6 +23,7 @@ const QuemSomos = () => {
                     Acredito que os games são mais do que entretenimento; são uma forma de arte, uma paixão e um meio de conexão entre pessoas.</p>
             </div>
         </div>
+        <Footer/>
         </>
     )
 }

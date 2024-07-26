@@ -17,7 +17,6 @@ const Cabecalho = () => {
       
         <div>
           <Link className="item-header" to={'/quemsomos'}>Quem somos</Link>
-          <a className="item-header" href="#">Colabore</a>
         </div>
       </div>
     );

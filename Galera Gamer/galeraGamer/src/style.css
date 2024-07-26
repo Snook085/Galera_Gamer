@@ -1,3 +1,27 @@
+/* Color Theme Swatches in Hex */
+.Game-over-1-hex { color: #F20519; }
+.Game-over-2-hex { color: #050259; }
+.Game-over-3-hex { color: #0711D9; }
+.Game-over-4-hex { color: #010A26; }
+.Game-over-5-hex { color: #05F2DB; }
+
+/* Color Theme Swatches in RGBA */
+.Game-over-1-rgba { color: rgba(242, 4, 24, 1); }
+.Game-over-2-rgba { color: rgba(4, 1, 89, 1); }
+.Game-over-3-rgba { color: rgba(6, 17, 216, 1); }
+.Game-over-4-rgba { color: rgba(0, 10, 38, 1); }
+.Game-over-5-rgba { color: rgba(4, 242, 218, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Game-over-1-hsla { color: hsla(354, 96, 48, 1); }
+.Game-over-2-hsla { color: hsla(241, 96, 17, 1); }
+.Game-over-3-hsla { color: hsla(236, 94, 43, 1); }
+.Game-over-4-hsla { color: hsla(225, 96, 7, 1); }
+.Game-over-5-hsla { color: hsla(174, 96, 48, 1); }
+
+
+
+
 *{
     margin: 0;
     padding: 0;

@@ -8,6 +8,7 @@
     background-image: url('https://i.pinimg.com/736x/a4/a0/7c/a4a07cf09457484d8b0f06e43a6a2c6e.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 100vh;
 }
 
 .cardInformativo{

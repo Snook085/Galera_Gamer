@@ -1,4 +1,4 @@
-import { FaBars } from "react-icons/fa";
+import { FaBars,FaInstagram } from "react-icons/fa";
 import './../Cabecalho/cabecalho.css'
 import { useState } from "react";
 import Sidebar from "../Sidebar";
@@ -17,6 +17,7 @@ const Cabecalho = () => {
       
         <div>
           <Link className="item-header" to={'/quemsomos'}>Quem somos</Link>
+          <a  className="item-header-icon" href="https://www.instagram.com/galera_gamer_ofc/"><FaInstagram/></a>
         </div>
       </div>
     );

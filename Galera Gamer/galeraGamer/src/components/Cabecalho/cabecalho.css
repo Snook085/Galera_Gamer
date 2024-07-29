@@ -12,6 +12,16 @@
     width: 90px;
     height: 90px;
 }
+
+.item-header-icon{
+    padding: 20px;
+    color: white;
+}
+
+
+.item-header-icon:hover{
+    color: #ff0000;
+}
 .svg{
     color: white;
     width: 30px;
